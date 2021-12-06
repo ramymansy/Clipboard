@@ -2,7 +2,7 @@
 
 Demo: https://ramymansy.github.io/Clipboard/
 
-Design Template By Frontend Mentor
+Design Template By FrontEnd-Mintor
 
 ### Built with
 
