@@ -1,6 +1,6 @@
 # Clipboard
 
-Demo: https://ramymansy.github.io/Clipboard/
+https://ramymansy.github.io/Clipboard/
 
 Design Template By FrontEnd-Mintor
 
