@@ -1,5 +1,8 @@
 # Clipboard
-https://ramymansy.github.io/Clipboard/
+
+Demo: https://ramymansy.github.io/Clipboard/
+
+Design Template By Frontend Mentor
 
 ### Built with
 
@@ -8,3 +11,5 @@ https://ramymansy.github.io/Clipboard/
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- FontAwesome
+- google Font
